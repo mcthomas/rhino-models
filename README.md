@@ -18,4 +18,5 @@ Taking heavy inspiration from the co-op characters featured in Portal 2, this mo
 This composition includes many smaller objects that I modeled as part of a still life scene, to reimagine the visual style of a traditional Vanitas painting. Most models display borrowed assets attached as decals, to communicate the importance of exploring our interests and aspirations during our short lives. The placement of the objects are intended to lead the viewer's gaze out and across the horizon.
 
 Art 429 // Professor Stephen Hilyard
+
 University of Wisconsin-Madison
