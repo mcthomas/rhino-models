@@ -1,5 +1,5 @@
 # rhino-models
-Several basic 3D models created in Rhinoceros, intended for use with V-Ray, available for use under the Common Public Attribution License.
+Several basic 3D models created in Rhinoceros, intended for use with V-Ray, available for use under the MIT License.
 
 Select the gif below to view an animation demo: 
 
